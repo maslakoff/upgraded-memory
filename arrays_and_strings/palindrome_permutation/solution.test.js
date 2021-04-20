@@ -1,4 +1,4 @@
-const isPalindromePermutation = require('./solution');
+import isPalindromePermutation from './solution';
 
 test('isPalindromePermutation positive cases', () => {
   expect(isPalindromePermutation('Tact Coa')).toBe(true);

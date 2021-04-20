@@ -1,4 +1,4 @@
-function isPalindromePermutation(str) {
+export default function isPalindromePermutation(str) {
   const data = str.replace(/ /g, '').toLowerCase().split('');
   const counter = {};
 
@@ -16,5 +16,3 @@ function isPalindromePermutation(str) {
 
   return result.length <= 1;
 }
-
-module.exports = isPalindromePermutation;

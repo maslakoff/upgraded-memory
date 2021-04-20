@@ -1,4 +1,4 @@
-const checkUniqueLettersInString = require('./solution');
+import checkUniqueLettersInString from './solution';
 
 test('checkUniqueLettersInString positive cases', () => {
   expect(checkUniqueLettersInString('abc')).toBe(true);

@@ -1,4 +1,4 @@
-const isPermutation = require('./solution');
+import isPermutation from './solution';
 
 test('isPermutation positive cases', () => {
   expect(isPermutation('aabcd', 'baacd')).toBe(true);
