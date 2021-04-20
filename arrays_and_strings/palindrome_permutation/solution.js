@@ -12,7 +12,5 @@ export default function isPalindromePermutation(str) {
 
   let result = Object.values(counter).filter((i) => i % 2 !== 0);
 
-  console.log(counter, result, result.length <= 1);
-
   return result.length <= 1;
 }
