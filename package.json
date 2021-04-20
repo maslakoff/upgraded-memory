@@ -1,0 +1,24 @@
+{
+  "name": "upgraded-memory",
+  "version": "1.0.0",
+  "description": "Collection of exercises",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maslakoff/upgraded-memory.git"
+  },
+  "keywords": [],
+  "author": "Ihar Maslakou <igormaslakoff@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maslakoff/upgraded-memory/issues"
+  },
+  "homepage": "https://github.com/maslakoff/upgraded-memory#readme"
+}
