@@ -1,2 +1,3 @@
 # upgraded-memory
-Collection of exercises 
+
+Collection of exercises
